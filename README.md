@@ -1,4 +1,4 @@
-# Second Trimester: Higher Level Programming Curriculum at ALX
+# 2nd Trimester: Higher Level Programming
 
 Welcome to the Higher Level Programming curriculum at ALX! This curriculum covers a range of topics in computer science and software development, with a focus on Python programming and related technologies.
 
